@@ -1,0 +1,13 @@
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.deps.json
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.runtimeconfig.json
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.runtimeconfig.dev.json
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.csprojResolveAssemblyReference.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.csproj.CoreCompileInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.AssemblyInfoInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.AssemblyInfo.cs
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject\obj\Debug\netcoreapp2.0\ConfigurationProject.pdb

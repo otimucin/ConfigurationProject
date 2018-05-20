@@ -1,0 +1,9 @@
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.deps.json
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.csprojResolveAssemblyReference.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.csproj.CoreCompileInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.AssemblyInfoInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.AssemblyInfo.cs
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject.Data\obj\Debug\netcoreapp2.0\ConfigurationProject.Data.pdb

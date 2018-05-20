@@ -1,0 +1,6 @@
+[2018-05-20 23:31:18.6805][WISGNYAZILIM85][Info] Uygulama başladı. 
+[2018-05-20 23:31:18.9658][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-20 23:31:19.5411][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-20 23:31:23.7582][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-20 23:31:24.5360][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 5050.8408ms 
+[2018-05-20 23:31:24.5726][WISGNYAZILIM85][Info] Request finished in 5642.9574ms 200 text/html; charset=utf-8 

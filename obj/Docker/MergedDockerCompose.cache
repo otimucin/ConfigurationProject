@@ -1,0 +1,19 @@
+services:
+  configurationproject:
+    build:
+      context: c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: configurationproject
+    ports:
+    - 8035:80/tcp
+    - 80/tcp
+  db:
+    command: --auth
+    image: mongo
+    ports:
+    - 27017:27017/tcp
+    volumes:
+    - c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject:/setup:rw
+version: '3.0'
