@@ -75,40 +75,11 @@ namespace ConfigurationProject.Data.Helper
 
             IMongoCollection<Configuration> configs = db.GetCollection<Configuration>("configuration");
 
-            if (configs.Count(x => true) != 0) //Eğer collection boş ise db'yi boş sayıp indexleri yaratıyoruz.
+            if (configs.Count(x => true) != 0)
                 return;
 
             configs.Indexes.CreateOneAsync(Builders<Configuration>.IndexKeys.Ascending(nameof(Configuration.Name)).Ascending(nameof(Configuration.ApplicationName)));
             configs.Indexes.CreateOneAsync(Builders<Configuration>.IndexKeys.Ascending(nameof(Configuration.ApplicationName)));
-
-            var setting1 = new Configuration
-            {
-                ApplicationName = "SERVICE-A",
-                Name = "SiteName",
-                Type = DbType.String,
-                Value = "Boyner.com.tr",
-                IsActive = true
-            };
-            var setting2 = new Configuration
-            {
-                ApplicationName = "SERVICE-B",
-                Name = "IsBasketEnabled",
-                Type = DbType.Bool,
-                Value = "1",
-                IsActive = true
-            };
-            var setting3 = new Configuration
-            {
-                ApplicationName = "SERVISE-A",
-                Name = "MaxItemCount",
-                Type = DbType.Int,
-                Value = "50",
-                IsActive = false
-            };
-           
-            configs.InsertOne(setting1);
-            configs.InsertOne(setting2);
-            configs.InsertOne(setting3);
         }
     }
 

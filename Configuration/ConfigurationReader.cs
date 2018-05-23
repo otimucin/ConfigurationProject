@@ -40,7 +40,9 @@ namespace Configuration
         private Task RefreshConfig(int interval)
         {
             if (interval < 5000)
-                interval = 5000; //min 5 saniye interval
+            {
+                interval = 5000;
+            }
 
             do
             {
@@ -51,7 +53,6 @@ namespace Configuration
 
             return null;
         }
-
 
         private void GetLatestConfigForApplication()
         {
@@ -64,7 +65,10 @@ namespace Configuration
         {
             var config = _configList.Find(x => x.Name == key);
             if (config == null)
-                throw new Exception($"Configuration for key:{key}/app:{_appName} doesn't exist");
+            {
+                return default(T);
+                //throw new Exception($"Configuration for key:{key}/app:{_appName} doesn't exist");
+            }
 
             if (!config.CheckType<T>())
             {

@@ -19,6 +19,8 @@ namespace ConfigurationProject.Data.Model
         public String Value { get; set; }
         public bool IsActive { get; set; }
         public string ApplicationName { get; set; }
+        [BsonIgnore]
+        public string MongoId { get; set; }
 
         public bool CheckType<T>()
         {

@@ -1,0 +1,725 @@
+[2018-05-21 21:36:39.7828][WISGNYAZILIM85][Info] Uygulama başladı. 
+[2018-05-21 21:36:39.7828][WISGNYAZILIM85][Warn] Heartbeat took longer than "00:00:01" at "05/21/2018 18:36:39 +00:00". 
+[2018-05-21 21:36:40.0614][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 21:36:40.6247][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 21:36:44.7966][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 21:36:45.5351][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 4962.7517ms 
+[2018-05-21 21:36:45.5515][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 21:36:45.5779][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 21:36:45.6043][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 21:36:45.6273][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:36:45.5779][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:36:45.6458][WISGNYAZILIM85][Info] Request finished in 84.3318ms 404  
+[2018-05-21 21:36:45.6511][WISGNYAZILIM85][Info] Request finished in 94.7554ms 404  
+[2018-05-21 21:36:45.6458][WISGNYAZILIM85][Info] Request finished in 5618.8142ms 200 text/html; charset=utf-8 
+[2018-05-21 21:36:45.6458][WISGNYAZILIM85][Info] Request finished in 84.4237ms 404  
+[2018-05-21 21:36:45.6893][WISGNYAZILIM85][Info] The file /css/site.css was not modified 
+[2018-05-21 21:36:45.7123][WISGNYAZILIM85][Info] The file /lib/bootstrap/dist/css/bootstrap.css was not modified 
+[2018-05-21 21:36:45.7655][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 21:36:45.7914][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:36:45.8134][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 21:36:45.7655][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 21:36:45.8134][WISGNYAZILIM85][Info] The file /lib/bootstrap/dist/js/bootstrap.js was not modified 
+[2018-05-21 21:36:45.8404][WISGNYAZILIM85][Info] Request finished in 269.5101ms 304 text/css 
+[2018-05-21 21:36:45.8404][WISGNYAZILIM85][Info] Request finished in 100.4693ms 404  
+[2018-05-21 21:36:45.8529][WISGNYAZILIM85][Info] The file /js/site.js was not modified 
+[2018-05-21 21:36:45.8529][WISGNYAZILIM85][Info] The file /lib/jquery/dist/jquery.js was not modified 
+[2018-05-21 21:36:45.8404][WISGNYAZILIM85][Info] Request finished in 264.4142ms 304 text/css 
+[2018-05-21 21:36:45.8529][WISGNYAZILIM85][Info] Request finished in 121.9329ms 304 application/javascript 
+[2018-05-21 21:36:45.8874][WISGNYAZILIM85][Info] Request finished in 142.4124ms 304 application/javascript 
+[2018-05-21 21:36:45.8874][WISGNYAZILIM85][Info] Request finished in 149.7022ms 304 application/javascript 
+[2018-05-21 21:36:45.9043][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:36:45.9263][WISGNYAZILIM85][Info] Request finished in 21.8629ms 404  
+[2018-05-21 21:36:45.9335][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:36:45.9563][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:36:45.9662][WISGNYAZILIM85][Info] Request finished in 32.5817ms 404  
+[2018-05-21 21:36:45.9662][WISGNYAZILIM85][Info] Request finished in 38.6796ms 404  
+[2018-05-21 21:39:45.2626][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 21:39:45.2626][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 21:39:45.4347][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 21:39:45.4635][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 190.4449ms 
+[2018-05-21 21:39:45.4635][WISGNYAZILIM85][Info] Request finished in 209.6637ms 200 text/html; charset=utf-8 
+[2018-05-21 21:39:45.5089][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 21:39:45.5309][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:39:45.5759][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:39:45.5529][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:39:45.5759][WISGNYAZILIM85][Info] Request finished in 91.4719ms 404  
+[2018-05-21 21:39:45.5759][WISGNYAZILIM85][Info] Request finished in 97.6395ms 404  
+[2018-05-21 21:39:45.5957][WISGNYAZILIM85][Info] Request finished in 106.7156ms 404  
+[2018-05-21 21:39:45.6051][WISGNYAZILIM85][Info] Request finished in 114.7431ms 404  
+[2018-05-21 21:39:45.6051][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:39:45.6414][WISGNYAZILIM85][Info] Request finished in 25.6532ms 404  
+[2018-05-21 21:56:46.1244][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 21:56:46.1244][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 21:56:46.2983][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 21:56:46.3211][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 188.2856ms 
+[2018-05-21 21:56:46.3307][WISGNYAZILIM85][Info] Request finished in 205.6014ms 200 text/html; charset=utf-8 
+[2018-05-21 21:56:46.3459][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 21:56:46.3701][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:56:46.3937][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:56:46.3701][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:56:46.4275][WISGNYAZILIM85][Info] Request finished in 76.5903ms 404  
+[2018-05-21 21:56:46.4181][WISGNYAZILIM85][Info] Request finished in 30.2715ms 404  
+[2018-05-21 21:56:46.4181][WISGNYAZILIM85][Info] Request finished in 72.0268ms 404  
+[2018-05-21 21:56:46.4275][WISGNYAZILIM85][Info] Request finished in 83.6471ms 404  
+[2018-05-21 21:56:54.9020][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 21:56:54.9099][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 21:56:54.9099][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 21:56:54.9250][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 15.3827ms 
+[2018-05-21 21:56:54.9250][WISGNYAZILIM85][Info] Request finished in 30.6867ms 200 text/html; charset=utf-8 
+[2018-05-21 21:56:54.9731][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:56:54.9731][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 21:56:55.0001][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:56:55.0490][WISGNYAZILIM85][Info] Request finished in 96.6456ms 404  
+[2018-05-21 21:56:55.0236][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:56:55.0460][WISGNYAZILIM85][Info] Request finished in 49.3693ms 404  
+[2018-05-21 21:56:55.0490][WISGNYAZILIM85][Info] Request finished in 79.6481ms 404  
+[2018-05-21 21:56:55.0795][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 21:56:55.0717][WISGNYAZILIM85][Info] Request finished in 94.9222ms 404  
+[2018-05-21 21:56:55.0795][WISGNYAZILIM85][Info] Request finished in 13.3881ms 404  
+[2018-05-21 21:56:55.1201][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 21:56:55.1419][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 21:56:55.1675][WISGNYAZILIM85][Info] Request finished in 68.027ms 404  
+[2018-05-21 21:56:55.1760][WISGNYAZILIM85][Info] Request finished in 53.1164ms 404  
+[2018-05-21 22:03:54.7281][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:03:54.7368][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:03:54.9112][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:03:54.9337][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 196.7186ms 
+[2018-05-21 22:03:54.9437][WISGNYAZILIM85][Info] Request finished in 213.4176ms 200 text/html; charset=utf-8 
+[2018-05-21 22:03:54.9599][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:03:54.9599][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:03:54.9724][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:03:54.9949][WISGNYAZILIM85][Info] Request finished in 14.1087ms 404  
+[2018-05-21 22:03:54.9599][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:03:54.9949][WISGNYAZILIM85][Info] Request finished in 33.6179ms 404  
+[2018-05-21 22:03:55.0061][WISGNYAZILIM85][Info] Request finished in 41.0407ms 404  
+[2018-05-21 22:03:55.0173][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:03:55.0173][WISGNYAZILIM85][Info] Request finished in 59.8665ms 404  
+[2018-05-21 22:03:55.0461][WISGNYAZILIM85][Info] Request finished in 29.8464ms 404  
+[2018-05-21 22:03:55.0578][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:03:55.0808][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:03:55.0808][WISGNYAZILIM85][Info] Request finished in 34.1003ms 404  
+[2018-05-21 22:03:55.0987][WISGNYAZILIM85][Info] Request finished in 41.9443ms 404  
+[2018-05-21 22:09:50.4464][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:09:50.4464][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:09:50.4624][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:09:50.4624][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 16.1538ms 
+[2018-05-21 22:09:50.4804][WISGNYAZILIM85][Info] Request finished in 33.5948ms 200 text/html; charset=utf-8 
+[2018-05-21 22:09:50.4975][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:09:50.5042][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:09:50.5042][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:09:50.5042][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:09:50.5042][WISGNYAZILIM85][Info] Request finished in 15.0371ms 404  
+[2018-05-21 22:09:50.5236][WISGNYAZILIM85][Info] Request finished in 21.8219ms 404  
+[2018-05-21 22:09:50.5236][WISGNYAZILIM85][Info] Request finished in 28.578ms 404  
+[2018-05-21 22:09:50.5389][WISGNYAZILIM85][Info] Request finished in 27.023ms 404  
+[2018-05-21 22:09:50.5616][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:09:50.5940][WISGNYAZILIM85][Info] Request finished in 32.8425ms 404  
+[2018-05-21 22:09:50.6041][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:09:50.6041][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:09:50.6146][WISGNYAZILIM85][Info] Request finished in 10.7208ms 404  
+[2018-05-21 22:09:50.6146][WISGNYAZILIM85][Info] Request finished in 17.7049ms 404  
+[2018-05-21 22:46:22.4198][WISGNYAZILIM85][Info] Uygulama başladı. 
+[2018-05-21 22:46:22.8800][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:46:23.4650][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:46:27.7240][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:46:28.5407][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 5132.1286ms 
+[2018-05-21 22:46:28.5622][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:46:28.5622][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:46:28.5622][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:46:28.5622][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:46:28.6001][WISGNYAZILIM85][Info] Request finished in 33.0324ms 404  
+[2018-05-21 22:46:28.6001][WISGNYAZILIM85][Info] Request finished in 5750.3317ms 200 text/html; charset=utf-8 
+[2018-05-21 22:46:28.6001][WISGNYAZILIM85][Info] Request finished in 33.0145ms 404  
+[2018-05-21 22:46:28.6100][WISGNYAZILIM85][Info] Request finished in 50.2199ms 404  
+[2018-05-21 22:46:28.6100][WISGNYAZILIM85][Info] Request finished in 36.8296ms 404  
+[2018-05-21 22:46:28.6630][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:46:28.6806][WISGNYAZILIM85][Info] Request finished in 19.0088ms 404  
+[2018-05-21 22:46:28.7117][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:46:28.7117][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:46:28.7279][WISGNYAZILIM85][Info] Request finished in 14.2575ms 404  
+[2018-05-21 22:46:28.7385][WISGNYAZILIM85][Info] Request finished in 26.1125ms 404  
+[2018-05-21 22:46:34.6758][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/home/application   
+[2018-05-21 22:46:34.6889][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:46:35.2810][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Application.cshtml. 
+[2018-05-21 22:46:35.3122][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) in 622.8615ms 
+[2018-05-21 22:46:35.3122][WISGNYAZILIM85][Info] Request finished in 646.2987ms 200 text/html; charset=utf-8 
+[2018-05-21 22:46:35.6259][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 22:46:35.6580][WISGNYAZILIM85][Info] The file /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 was not modified 
+[2018-05-21 22:46:35.6736][WISGNYAZILIM85][Info] Request finished in 47.2212ms 304 font/woff2 
+[2018-05-21 22:47:45.4036][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/home/application   
+[2018-05-21 22:47:45.4142][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:47:45.5907][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Application.cshtml. 
+[2018-05-21 22:47:45.6111][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) in 196.2302ms 
+[2018-05-21 22:47:45.6111][WISGNYAZILIM85][Info] Request finished in 223.8532ms 200 text/html; charset=utf-8 
+[2018-05-21 22:47:45.7374][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 22:47:45.7532][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 22:47:45.7865][WISGNYAZILIM85][Info] Request finished in 49.4595ms 200 image/x-icon 
+[2018-05-21 22:48:05.1002][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/home/application   
+[2018-05-21 22:48:05.1106][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:48:05.2908][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Application.cshtml. 
+[2018-05-21 22:48:05.3098][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) in 199.1613ms 
+[2018-05-21 22:48:05.3205][WISGNYAZILIM85][Info] Request finished in 219.1905ms 200 text/html; charset=utf-8 
+[2018-05-21 22:48:05.3396][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 22:48:05.3436][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 22:48:05.3436][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 22:48:05.3436][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 22:48:05.3436][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 22:48:05.3657][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 22:48:05.3769][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 22:48:05.3769][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 22:48:05.3436][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 22:48:05.4000][WISGNYAZILIM85][Info] Request finished in 61.486ms 200 text/css 
+[2018-05-21 22:48:05.4251][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 22:48:05.4251][WISGNYAZILIM85][Info] Request finished in 75.2094ms 200 application/javascript 
+[2018-05-21 22:48:05.4251][WISGNYAZILIM85][Info] Request finished in 87.5058ms 200 text/css 
+[2018-05-21 22:48:05.4444][WISGNYAZILIM85][Info] Request finished in 93.9193ms 200 application/javascript 
+[2018-05-21 22:48:05.4622][WISGNYAZILIM85][Info] Request finished in 111.8193ms 200 application/javascript 
+[2018-05-21 22:48:05.5156][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 22:48:05.5156][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 22:48:05.5447][WISGNYAZILIM85][Info] Request finished in 29.0929ms 200 font/woff2 
+[2018-05-21 22:48:05.5993][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 22:48:05.6091][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 22:48:05.6091][WISGNYAZILIM85][Info] Request finished in 20.4944ms 200 image/x-icon 
+[2018-05-21 22:49:38.1623][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/home/application   
+[2018-05-21 22:49:38.1726][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:49:38.3671][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Application.cshtml. 
+[2018-05-21 22:49:38.3877][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) in 214.8434ms 
+[2018-05-21 22:49:38.3985][WISGNYAZILIM85][Info] Request finished in 237.9641ms 200 text/html; charset=utf-8 
+[2018-05-21 22:49:38.4164][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 22:49:38.4164][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 22:49:38.4384][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 22:49:38.4295][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 22:49:38.4295][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 22:49:38.4384][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 22:49:38.4295][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 22:49:38.4544][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 22:49:38.4745][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 22:49:38.4544][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 22:49:38.4898][WISGNYAZILIM85][Info] Request finished in 81.132ms 200 text/css 
+[2018-05-21 22:49:38.5072][WISGNYAZILIM85][Info] Request finished in 77.8442ms 200 application/javascript 
+[2018-05-21 22:49:38.4898][WISGNYAZILIM85][Info] Request finished in 69.3095ms 200 text/css 
+[2018-05-21 22:49:38.5222][WISGNYAZILIM85][Info] Request finished in 92.9443ms 200 application/javascript 
+[2018-05-21 22:49:38.5222][WISGNYAZILIM85][Info] Request finished in 100.2204ms 200 application/javascript 
+[2018-05-21 22:49:38.5806][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 22:49:38.5940][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 22:49:38.5940][WISGNYAZILIM85][Info] Request finished in 26.488ms 200 font/woff2 
+[2018-05-21 22:49:38.6678][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 22:49:38.6810][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 22:49:38.6948][WISGNYAZILIM85][Info] Request finished in 26.5911ms 200 image/x-icon 
+[2018-05-21 22:49:52.5752][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/home/application   
+[2018-05-21 22:49:52.5860][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:49:52.7508][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Application.cshtml. 
+[2018-05-21 22:49:52.7708][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Application (ConfigurationProject) in 184.4962ms 
+[2018-05-21 22:49:52.7821][WISGNYAZILIM85][Info] Request finished in 206.4652ms 200 text/html; charset=utf-8 
+[2018-05-21 22:49:52.9689][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 22:49:52.9689][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 22:49:52.9930][WISGNYAZILIM85][Info] Request finished in 23.6309ms 200 image/x-icon 
+[2018-05-21 22:52:20.6502][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:52:20.6615][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:52:20.6615][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:52:20.6871][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 22.6665ms 
+[2018-05-21 22:52:20.6993][WISGNYAZILIM85][Info] Request finished in 48.4909ms 200 text/html; charset=utf-8 
+[2018-05-21 22:52:20.7302][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:52:20.7596][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:52:20.7302][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:52:20.7596][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:52:20.7677][WISGNYAZILIM85][Info] Request finished in 58.6015ms 404  
+[2018-05-21 22:52:20.7677][WISGNYAZILIM85][Info] Request finished in 17.1733ms 404  
+[2018-05-21 22:52:20.7909][WISGNYAZILIM85][Info] Request finished in 79.4796ms 404  
+[2018-05-21 22:52:20.8005][WISGNYAZILIM85][Info] Request finished in 62.4722ms 404  
+[2018-05-21 22:52:20.8131][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:52:20.8483][WISGNYAZILIM85][Info] Request finished in 34.9577ms 404  
+[2018-05-21 22:52:20.8483][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:52:20.8483][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:52:20.8708][WISGNYAZILIM85][Info] Request finished in 14.0715ms 404  
+[2018-05-21 22:52:20.8813][WISGNYAZILIM85][Info] Request finished in 24.354ms 404  
+[2018-05-21 22:55:02.3847][WISGNYAZILIM85][Info] Uygulama başladı. 
+[2018-05-21 22:55:02.7215][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:55:03.3710][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:55:07.5374][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:55:08.2975][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 4991.9575ms 
+[2018-05-21 22:55:08.3346][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:55:08.3346][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:55:08.3346][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:55:08.3346][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:55:08.3742][WISGNYAZILIM85][Info] Request finished in 49.8833ms 404  
+[2018-05-21 22:55:08.3742][WISGNYAZILIM85][Info] Request finished in 49.1165ms 404  
+[2018-05-21 22:55:08.3761][WISGNYAZILIM85][Info] Request finished in 64.9556ms 404  
+[2018-05-21 22:55:08.3761][WISGNYAZILIM85][Info] Request finished in 41.2276ms 404  
+[2018-05-21 22:55:08.3761][WISGNYAZILIM85][Info] Request finished in 5709.1994ms 200 text/html; charset=utf-8 
+[2018-05-21 22:55:08.4553][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:55:08.4553][WISGNYAZILIM85][Info] Request finished in 11.8344ms 404  
+[2018-05-21 22:55:08.4951][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:55:08.5178][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:55:08.5178][WISGNYAZILIM85][Info] Request finished in 56.0411ms 404  
+[2018-05-21 22:55:08.5413][WISGNYAZILIM85][Info] Request finished in 66.4507ms 404  
+[2018-05-21 22:59:39.5763][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 22:59:39.5887][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 22:59:39.7745][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 22:59:39.8133][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 224.7813ms 
+[2018-05-21 22:59:39.8260][WISGNYAZILIM85][Info] Request finished in 248.7158ms 200 text/html; charset=utf-8 
+[2018-05-21 22:59:39.8407][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 22:59:39.8681][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 22:59:39.8681][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:59:39.8936][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:59:39.9264][WISGNYAZILIM85][Info] Request finished in 81.3129ms 404  
+[2018-05-21 22:59:39.8936][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:59:39.8936][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 22:59:39.9264][WISGNYAZILIM85][Info] Request finished in 54.7171ms 404  
+[2018-05-21 22:59:39.9264][WISGNYAZILIM85][Info] Request finished in 66.7979ms 404  
+[2018-05-21 22:59:39.9629][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 22:59:39.9760][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 22:59:39.9528][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 22:59:39.9629][WISGNYAZILIM85][Info] Request finished in 111.1927ms 404  
+[2018-05-21 22:59:39.9887][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 22:59:39.9887][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 22:59:40.0255][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 22:59:40.0519][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 22:59:40.0482][WISGNYAZILIM85][Info] Request finished in 208.5975ms 200 text/css 
+[2018-05-21 22:59:40.0519][WISGNYAZILIM85][Info] Request finished in 185.7257ms 200 text/css 
+[2018-05-21 22:59:40.0519][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 22:59:40.0815][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 22:59:40.0758][WISGNYAZILIM85][Info] Request finished in 122.7582ms 200 application/javascript 
+[2018-05-21 22:59:40.0815][WISGNYAZILIM85][Info] Request finished in 88.9804ms 200 application/javascript 
+[2018-05-21 22:59:40.1235][WISGNYAZILIM85][Info] Request finished in 134.044ms 200 application/javascript 
+[2018-05-21 22:59:40.1275][WISGNYAZILIM85][Info] Request finished in 46.6665ms 404  
+[2018-05-21 22:59:40.1275][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 22:59:40.1832][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 22:59:40.2439][WISGNYAZILIM85][Info] Request finished in 104.5333ms 404  
+[2018-05-21 22:59:40.2544][WISGNYAZILIM85][Info] Request finished in 115.7562ms 404  
+[2018-05-21 22:59:40.3095][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 22:59:40.3238][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 22:59:40.3375][WISGNYAZILIM85][Info] Request finished in 28.2282ms 200 font/woff2 
+[2018-05-21 22:59:40.3710][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 22:59:40.3830][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 22:59:40.3966][WISGNYAZILIM85][Info] Request finished in 24.7201ms 200 image/x-icon 
+[2018-05-21 22:59:45.1884][WISGNYAZILIM85][Info] Request starting HTTP/1.1 DELETE http://localhost:54645/Configuration/DeleteValue   
+[2018-05-21 22:59:52.5572][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) with arguments () - ModelState is Valid 
+[2018-05-21 23:00:00.5254][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) in 15251.2578ms 
+[2018-05-21 23:00:00.6622][WISGNYAZILIM85][Error] An unhandled exception has occurred while executing the request Value cannot be null.
+Parameter name: value
+[2018-05-21 23:00:00.8801][WISGNYAZILIM85][Info] Request finished in 15692.1048ms 500 text/html; charset=utf-8 
+[2018-05-21 23:00:04.8520][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:00:04.8623][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:00:04.8623][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:00:04.8855][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 22.7533ms 
+[2018-05-21 23:00:04.8965][WISGNYAZILIM85][Info] Request finished in 43.6802ms 200 text/html; charset=utf-8 
+[2018-05-21 23:00:04.9354][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:00:04.9354][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:00:05.0086][WISGNYAZILIM85][Info] Request finished in 53.0817ms 404  
+[2018-05-21 23:00:04.9855][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:00:04.9617][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:00:05.0086][WISGNYAZILIM85][Info] Request finished in 99.694ms 404  
+[2018-05-21 23:00:05.0321][WISGNYAZILIM85][Info] Request finished in 94.5193ms 404  
+[2018-05-21 23:00:05.0448][WISGNYAZILIM85][Info] Request finished in 132.7624ms 404  
+[2018-05-21 23:00:05.0740][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:00:05.1034][WISGNYAZILIM85][Info] Request finished in 50.1745ms 404  
+[2018-05-21 23:00:05.1034][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:00:05.1331][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:00:05.1458][WISGNYAZILIM85][Info] Request finished in 35.3302ms 404  
+[2018-05-21 23:00:05.1458][WISGNYAZILIM85][Info] Request finished in 44.5765ms 404  
+[2018-05-21 23:00:05.2356][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:00:05.2459][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:00:05.2571][WISGNYAZILIM85][Info] Request finished in 21.4306ms 200 image/x-icon 
+[2018-05-21 23:08:35.3704][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:08:35.3704][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:08:35.5724][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:08:35.5987][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 218.3793ms 
+[2018-05-21 23:08:35.6085][WISGNYAZILIM85][Info] Request finished in 237.7324ms 200 text/html; charset=utf-8 
+[2018-05-21 23:08:35.6279][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:08:35.6523][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:08:35.6523][WISGNYAZILIM85][Info] Request finished in 31.3851ms 404  
+[2018-05-21 23:08:35.6523][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:08:35.6523][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:08:35.6695][WISGNYAZILIM85][Info] Request finished in 36.4387ms 404  
+[2018-05-21 23:08:35.6877][WISGNYAZILIM85][Info] Request finished in 54.6521ms 404  
+[2018-05-21 23:08:35.7298][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:08:35.6966][WISGNYAZILIM85][Info] Request finished in 63.4913ms 404  
+[2018-05-21 23:08:35.7519][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:08:35.7652][WISGNYAZILIM85][Info] Request finished in 55.412ms 404  
+[2018-05-21 23:08:35.7814][WISGNYAZILIM85][Info] Request finished in 71.7027ms 404  
+[2018-05-21 23:08:35.8891][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:08:35.8990][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:08:35.8990][WISGNYAZILIM85][Info] Request finished in 21.242ms 200 image/x-icon 
+[2018-05-21 23:08:39.2174][WISGNYAZILIM85][Info] Request starting HTTP/1.1 DELETE http://localhost:54645/Configuration/DeleteValue?id=5b014f61da83665ab0369acc   
+[2018-05-21 23:08:41.8751][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) with arguments (5b014f61da83665ab0369acc) - ModelState is Valid 
+[2018-05-21 23:08:50.1238][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) in 10895.1895ms 
+[2018-05-21 23:08:50.1329][WISGNYAZILIM85][Info] Request finished in 10915.9517ms 200  
+[2018-05-21 23:08:55.1693][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:08:55.1789][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:08:55.1789][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:08:55.2012][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 21.9853ms 
+[2018-05-21 23:08:55.2114][WISGNYAZILIM85][Info] Request finished in 41.5462ms 200 text/html; charset=utf-8 
+[2018-05-21 23:08:55.2468][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:08:55.2697][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:08:55.2919][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:08:55.3142][WISGNYAZILIM85][Info] Request finished in 48.3339ms 404  
+[2018-05-21 23:08:55.3377][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:08:55.3377][WISGNYAZILIM85][Info] Request finished in 94.1828ms 404  
+[2018-05-21 23:08:55.3508][WISGNYAZILIM85][Info] Request finished in 103.2409ms 404  
+[2018-05-21 23:08:55.3711][WISGNYAZILIM85][Info] Request finished in 123.3446ms 404  
+[2018-05-21 23:08:55.4010][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:08:55.4277][WISGNYAZILIM85][Info] Request finished in 48.6641ms 404  
+[2018-05-21 23:08:55.4559][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:08:55.4777][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:08:55.5095][WISGNYAZILIM85][Info] Request finished in 74.2425ms 404  
+[2018-05-21 23:08:55.5095][WISGNYAZILIM85][Info] Request finished in 84.6123ms 404  
+[2018-05-21 23:08:55.5993][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:08:55.5993][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:08:55.6188][WISGNYAZILIM85][Info] Request finished in 19.489ms 200 image/x-icon 
+[2018-05-21 23:19:50.2198][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:19:50.2308][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:19:50.4251][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:19:50.4523][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 221.3583ms 
+[2018-05-21 23:19:50.4626][WISGNYAZILIM85][Info] Request finished in 242.3275ms 200 text/html; charset=utf-8 
+[2018-05-21 23:19:50.4808][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:19:50.5098][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:19:50.5347][WISGNYAZILIM85][Info] Request finished in 56.89ms 404  
+[2018-05-21 23:19:50.5098][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:19:50.5347][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:19:50.5472][WISGNYAZILIM85][Info] Request finished in 61.2097ms 404  
+[2018-05-21 23:19:50.5755][WISGNYAZILIM85][Info] Request finished in 89.6321ms 404  
+[2018-05-21 23:19:50.5670][WISGNYAZILIM85][Info] Request finished in 81.5794ms 404  
+[2018-05-21 23:19:50.5870][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:19:50.6150][WISGNYAZILIM85][Info] Request finished in 27.2061ms 404  
+[2018-05-21 23:19:50.6265][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:19:50.6265][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:19:50.6416][WISGNYAZILIM85][Info] Request finished in 15.9716ms 404  
+[2018-05-21 23:19:50.6502][WISGNYAZILIM85][Info] Request finished in 20.4812ms 404  
+[2018-05-21 23:20:27.7667][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Configuration/AddNewValue?{} application/json; charset=utf-8  
+[2018-05-21 23:20:27.7779][WISGNYAZILIM85][Info] Request finished in 10.9471ms 404  
+[2018-05-21 23:20:31.4313][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:20:31.4313][WISGNYAZILIM85][Info] Request finished in 9.8595ms 404  
+[2018-05-21 23:20:31.5468][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css.map   
+[2018-05-21 23:20:31.5607][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map' 
+[2018-05-21 23:20:31.5993][WISGNYAZILIM85][Info] Request finished in 52.4586ms 200 text/plain 
+[2018-05-21 23:20:38.7218][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Configuration/AddNewValue?{} application/json; charset=utf-8  
+[2018-05-21 23:20:38.7312][WISGNYAZILIM85][Info] Request finished in 9.2185ms 404  
+[2018-05-21 23:21:07.4253][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Configuration/AddNewValue?{} application/json; charset=utf-8  
+[2018-05-21 23:21:07.4360][WISGNYAZILIM85][Info] Request finished in 10.0366ms 404  
+[2018-05-21 23:21:09.3510][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Configuration/AddNewValue?{} application/json; charset=utf-8  
+[2018-05-21 23:21:09.3604][WISGNYAZILIM85][Info] Request finished in 9.2937ms 404  
+[2018-05-21 23:21:11.2590][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:21:11.2590][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:21:11.4593][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:21:11.4852][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 215.9583ms 
+[2018-05-21 23:21:11.4957][WISGNYAZILIM85][Info] Request finished in 236.1966ms 200 text/html; charset=utf-8 
+[2018-05-21 23:21:11.5427][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 23:21:11.5427][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:21:11.6130][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:21:11.5686][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:21:11.5910][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 23:21:11.6826][WISGNYAZILIM85][Info] Request finished in 120.3142ms 404  
+[2018-05-21 23:21:11.6360][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:21:11.6599][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 23:21:11.7183][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 23:21:11.7286][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 23:21:11.7056][WISGNYAZILIM85][Info] Request finished in 188.5435ms 404  
+[2018-05-21 23:21:11.7286][WISGNYAZILIM85][Info] Request finished in 142.2507ms 404  
+[2018-05-21 23:21:11.7056][WISGNYAZILIM85][Info] Request finished in 90.7496ms 404  
+[2018-05-21 23:21:11.7785][WISGNYAZILIM85][Info] Request finished in 212.1299ms 200 text/css 
+[2018-05-21 23:21:11.8241][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 23:21:11.8585][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:21:11.8495][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 23:21:11.8585][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 23:21:11.8764][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css.map   
+[2018-05-21 23:21:11.8895][WISGNYAZILIM85][Info] Request finished in 33.5995ms 404  
+[2018-05-21 23:21:11.8895][WISGNYAZILIM85][Info] Request finished in 159.3112ms 200 application/javascript 
+[2018-05-21 23:21:11.9029][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 23:21:11.9203][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map' 
+[2018-05-21 23:21:11.9328][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:21:11.9029][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 23:21:11.8016][WISGNYAZILIM85][Info] Request finished in 241.1262ms 200 text/css 
+[2018-05-21 23:21:11.9502][WISGNYAZILIM85][Info] Request finished in 100.3068ms 200 application/javascript 
+[2018-05-21 23:21:11.9658][WISGNYAZILIM85][Info] Request finished in 86.2023ms 200 text/plain 
+[2018-05-21 23:21:11.9658][WISGNYAZILIM85][Info] Request finished in 35.8079ms 404  
+[2018-05-21 23:21:11.9807][WISGNYAZILIM85][Info] Request finished in 114.0927ms 200 application/javascript 
+[2018-05-21 23:21:11.9807][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:21:12.0388][WISGNYAZILIM85][Info] Request finished in 47.7587ms 404  
+[2018-05-21 23:21:12.0922][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 23:21:12.1030][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 23:21:12.1030][WISGNYAZILIM85][Info] Request finished in 21.9438ms 200 font/woff2 
+[2018-05-21 23:21:35.4629][WISGNYAZILIM85][Info] Request starting HTTP/1.1 POST http://localhost:54645/Configuration/AddNewValue application/json; charset=UTF-8 2 
+[2018-05-21 23:21:38.1235][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) with arguments (ConfigurationProject.Data.Model.Configuration) - ModelState is Valid 
+[2018-05-21 23:21:39.4967][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) in 4020.6565ms 
+[2018-05-21 23:21:39.5135][WISGNYAZILIM85][Info] Request finished in 4050.0056ms 200  
+[2018-05-21 23:21:43.6268][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:21:43.6366][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:21:43.6366][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:21:43.6588][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 22.0729ms 
+[2018-05-21 23:21:43.6695][WISGNYAZILIM85][Info] Request finished in 41.8271ms 200 text/html; charset=utf-8 
+[2018-05-21 23:21:43.6870][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 23:21:43.6870][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 23:21:43.7311][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:21:43.8218][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 23:21:43.7528][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:21:43.7760][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:21:43.8447][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 23:21:43.8447][WISGNYAZILIM85][Info] Request finished in 151.2204ms 404  
+[2018-05-21 23:21:43.8702][WISGNYAZILIM85][Info] Request finished in 171.5784ms 404  
+[2018-05-21 23:21:43.8702][WISGNYAZILIM85][Info] Request finished in 144.6122ms 404  
+[2018-05-21 23:21:43.8902][WISGNYAZILIM85][Info] Request finished in 200.0555ms 200 text/css 
+[2018-05-21 23:21:43.9018][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 23:21:43.9018][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 23:21:43.9236][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:21:43.9340][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css.map   
+[2018-05-21 23:21:43.9340][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 23:21:43.9508][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 23:21:43.9508][WISGNYAZILIM85][Info] Request finished in 36.5452ms 404  
+[2018-05-21 23:21:43.7988][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:21:43.9695][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map' 
+[2018-05-21 23:21:43.9833][WISGNYAZILIM85][Info] Request finished in 81.4729ms 200 application/javascript 
+[2018-05-21 23:21:43.9987][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:21:43.9987][WISGNYAZILIM85][Info] Request finished in 249.9723ms 404  
+[2018-05-21 23:21:43.8628][WISGNYAZILIM85][Info] Request finished in 174.6473ms 200 text/css 
+[2018-05-21 23:21:43.9833][WISGNYAZILIM85][Info] Request finished in 75.2561ms 200 application/javascript 
+[2018-05-21 23:21:44.0243][WISGNYAZILIM85][Info] Request finished in 88.4569ms 200 text/plain 
+[2018-05-21 23:21:44.0497][WISGNYAZILIM85][Info] Request finished in 50.4209ms 404  
+[2018-05-21 23:21:44.0697][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 23:21:44.0990][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 23:21:44.1037][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 23:21:44.1037][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 23:21:44.1254][WISGNYAZILIM85][Info] Request finished in 55.7824ms 200 application/javascript 
+[2018-05-21 23:21:44.1337][WISGNYAZILIM85][Info] Request finished in 33.6021ms 200 font/woff2 
+[2018-05-21 23:23:07.7279][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:23:07.7404][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:23:07.9951][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:23:08.0251][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 284.9523ms 
+[2018-05-21 23:23:08.0251][WISGNYAZILIM85][Info] Request finished in 309.5907ms 200 text/html; charset=utf-8 
+[2018-05-21 23:23:08.0553][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 23:23:08.0815][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:23:08.1058][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:23:08.1563][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 23:23:08.1058][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:23:08.1323][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:23:08.1563][WISGNYAZILIM85][Info] Request finished in 106.1289ms 404  
+[2018-05-21 23:23:08.1700][WISGNYAZILIM85][Info] Request finished in 107.3417ms 404  
+[2018-05-21 23:23:08.1833][WISGNYAZILIM85][Info] Request finished in 129.5776ms 404  
+[2018-05-21 23:23:08.2050][WISGNYAZILIM85][Info] Request finished in 140.3947ms 404  
+[2018-05-21 23:23:08.2165][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 23:23:08.2284][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 23:23:08.1563][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 23:23:08.1833][WISGNYAZILIM85][Info] Request finished in 127.5296ms 200 text/css 
+[2018-05-21 23:23:08.2616][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 23:23:08.2616][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 23:23:08.2794][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 23:23:08.3179][WISGNYAZILIM85][Info] Request finished in 94.2097ms 200 application/javascript 
+[2018-05-21 23:23:08.2935][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 23:23:08.3558][WISGNYAZILIM85][Info] Request finished in 291.5189ms 200 text/css 
+[2018-05-21 23:23:08.3429][WISGNYAZILIM85][Info] Request finished in 101.7762ms 200 application/javascript 
+[2018-05-21 23:23:08.3558][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 23:23:08.3842][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:23:08.4089][WISGNYAZILIM85][Info] Request finished in 115.0352ms 200 application/javascript 
+[2018-05-21 23:23:08.4191][WISGNYAZILIM85][Info] Request finished in 34.2696ms 404  
+[2018-05-21 23:23:08.4370][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:23:08.4370][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:23:08.4611][WISGNYAZILIM85][Info] Request finished in 30.6914ms 404  
+[2018-05-21 23:23:08.4706][WISGNYAZILIM85][Info] Request finished in 40.2307ms 404  
+[2018-05-21 23:23:08.4877][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 23:23:08.5132][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 23:23:08.5285][WISGNYAZILIM85][Info] Request finished in 40.631ms 200 font/woff2 
+[2018-05-21 23:23:08.5960][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:23:08.6061][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:23:08.6201][WISGNYAZILIM85][Info] Request finished in 23.2447ms 200 image/x-icon 
+[2018-05-21 23:23:10.8398][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:23:10.8398][WISGNYAZILIM85][Info] Request finished in 11.1267ms 404  
+[2018-05-21 23:23:10.9569][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css.map   
+[2018-05-21 23:23:10.9706][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css.map'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map' 
+[2018-05-21 23:23:10.9932][WISGNYAZILIM85][Info] Request finished in 35.5445ms 200 text/plain 
+[2018-05-21 23:24:41.2733][WISGNYAZILIM85][Info] Request starting HTTP/1.1 POST http://localhost:54645/Configuration/AddNewValue application/json; charset=UTF-8 2 
+[2018-05-21 23:24:45.1233][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) with arguments (ConfigurationProject.Data.Model.Configuration) - ModelState is Valid 
+[2018-05-21 23:24:47.2662][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) in 5982.4456ms 
+[2018-05-21 23:24:47.2767][WISGNYAZILIM85][Info] Request finished in 6002.6758ms 200  
+[2018-05-21 23:25:30.8982][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:25:30.9090][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:25:31.2017][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:25:31.2292][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 320.1277ms 
+[2018-05-21 23:25:31.2292][WISGNYAZILIM85][Info] Request finished in 341.3578ms 200 text/html; charset=utf-8 
+[2018-05-21 23:25:31.2779][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 23:25:31.2779][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:25:31.3275][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:25:31.3793][WISGNYAZILIM85][Info] Request finished in 101.1506ms 404  
+[2018-05-21 23:25:31.3793][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:25:31.3275][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:25:31.3029][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 23:25:31.3564][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 23:25:31.3893][WISGNYAZILIM85][Info] Request finished in 129.7846ms 404  
+[2018-05-21 23:25:31.3893][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 23:25:31.4035][WISGNYAZILIM85][Info] Request finished in 96.0127ms 404  
+[2018-05-21 23:25:31.3893][WISGNYAZILIM85][Info] Request finished in 63.3626ms 404  
+[2018-05-21 23:25:31.4035][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 23:25:31.4307][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 23:25:31.5022][WISGNYAZILIM85][Info] Request finished in 203.4362ms 200 text/css 
+[2018-05-21 23:25:31.5022][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 23:25:31.5022][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 23:25:31.5327][WISGNYAZILIM85][Info] Request finished in 253.8383ms 200 text/css 
+[2018-05-21 23:25:31.5825][WISGNYAZILIM85][Info] Request finished in 191.3121ms 200 application/javascript 
+[2018-05-21 23:25:31.5587][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:25:31.5825][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 23:25:31.5908][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 23:25:31.6058][WISGNYAZILIM85][Info] Request finished in 128.1095ms 200 application/javascript 
+[2018-05-21 23:25:31.6058][WISGNYAZILIM85][Info] Request finished in 68.1638ms 404  
+[2018-05-21 23:25:31.6381][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:25:31.6381][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:25:31.6521][WISGNYAZILIM85][Info] Request finished in 34.9423ms 404  
+[2018-05-21 23:25:31.6521][WISGNYAZILIM85][Info] Request finished in 38.3105ms 404  
+[2018-05-21 23:25:31.6381][WISGNYAZILIM85][Info] Request finished in 160.3662ms 200 application/javascript 
+[2018-05-21 23:25:31.7012][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 23:25:31.7012][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 23:25:31.7156][WISGNYAZILIM85][Info] Request finished in 14.1553ms 200 font/woff2 
+[2018-05-21 23:25:31.7468][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:25:31.7468][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:25:31.7468][WISGNYAZILIM85][Info] Request finished in 12.6756ms 200 image/x-icon 
+[2018-05-21 23:26:07.1738][WISGNYAZILIM85][Info] Request starting HTTP/1.1 POST http://localhost:54645/Configuration/AddNewValue application/json; charset=UTF-8 88 
+[2018-05-21 23:26:09.4499][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) with arguments () - ModelState is Invalid 
+[2018-05-21 23:26:30.7713][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:26:30.7713][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) in 23595.1841ms 
+[2018-05-21 23:26:30.7778][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:26:30.8712][WISGNYAZILIM85][Error] An unhandled exception has occurred while executing the request Value cannot be null.
+Parameter name: document
+[2018-05-21 23:26:30.9802][WISGNYAZILIM85][Info] Request finished in 23806.1885ms 500 text/html; charset=utf-8 
+[2018-05-21 23:26:30.9802][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:26:31.0089][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 230.6932ms 
+[2018-05-21 23:26:31.0156][WISGNYAZILIM85][Info] Request finished in 247.8507ms 200 text/html; charset=utf-8 
+[2018-05-21 23:26:31.0307][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:26:31.0307][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:26:31.0422][WISGNYAZILIM85][Info] Request finished in 11.1386ms 404  
+[2018-05-21 23:26:31.0307][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:26:31.0422][WISGNYAZILIM85][Info] Request finished in 12.1962ms 404  
+[2018-05-21 23:26:31.0584][WISGNYAZILIM85][Info] Request finished in 23.7553ms 404  
+[2018-05-21 23:26:31.0307][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:26:31.0754][WISGNYAZILIM85][Info] Request finished in 41.5663ms 404  
+[2018-05-21 23:26:31.0754][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:26:31.0946][WISGNYAZILIM85][Info] Request finished in 7.0096ms 404  
+[2018-05-21 23:26:31.1241][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:26:31.1241][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:26:31.1241][WISGNYAZILIM85][Info] Request finished in 29.1309ms 404  
+[2018-05-21 23:26:31.1399][WISGNYAZILIM85][Info] Request finished in 35.3024ms 404  
+[2018-05-21 23:26:31.2232][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:26:31.2232][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:26:31.2363][WISGNYAZILIM85][Info] Request finished in 13.4185ms 200 image/x-icon 
+[2018-05-21 23:26:35.3619][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:26:35.3619][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:26:35.3752][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:26:35.3752][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 14.0937ms 
+[2018-05-21 23:26:35.3890][WISGNYAZILIM85][Info] Request finished in 26.5847ms 200 text/html; charset=utf-8 
+[2018-05-21 23:26:35.4261][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:26:35.4261][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:26:35.4336][WISGNYAZILIM85][Info] Request finished in 31.0246ms 404  
+[2018-05-21 23:26:35.4336][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:26:35.4261][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:26:35.4537][WISGNYAZILIM85][Info] Request finished in 22.0511ms 404  
+[2018-05-21 23:26:35.4336][WISGNYAZILIM85][Info] Request finished in 34.1272ms 404  
+[2018-05-21 23:26:35.4537][WISGNYAZILIM85][Info] Request finished in 51.3771ms 404  
+[2018-05-21 23:26:35.4877][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:26:35.5000][WISGNYAZILIM85][Info] Request finished in 33.4096ms 404  
+[2018-05-21 23:26:35.5000][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:26:35.5127][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:26:35.5127][WISGNYAZILIM85][Info] Request finished in 9.5093ms 404  
+[2018-05-21 23:26:35.5261][WISGNYAZILIM85][Info] Request finished in 14.8862ms 404  
+[2018-05-21 23:26:35.5794][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:26:35.5794][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:26:35.5929][WISGNYAZILIM85][Info] Request finished in 13.315ms 200 image/x-icon 
+[2018-05-21 23:26:51.6845][WISGNYAZILIM85][Info] Request starting HTTP/1.1 POST http://localhost:54645/Configuration/AddNewValue application/json; charset=UTF-8 82 
+[2018-05-21 23:26:55.7439][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) with arguments () - ModelState is Invalid 
+[2018-05-21 23:27:53.0531][WISGNYAZILIM85][Info] Uygulama başladı. 
+[2018-05-21 23:27:53.4810][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:27:54.0279][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:27:58.2052][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:27:58.9707][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 4998.7238ms 
+[2018-05-21 23:27:59.0097][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:27:59.0118][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:27:59.0376][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:27:59.0118][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:27:59.0759][WISGNYAZILIM85][Info] Request finished in 63.0722ms 404  
+[2018-05-21 23:27:59.0759][WISGNYAZILIM85][Info] Request finished in 5615.4267ms 200 text/html; charset=utf-8 
+[2018-05-21 23:27:59.1038][WISGNYAZILIM85][Info] Request finished in 63.4314ms 404  
+[2018-05-21 23:27:59.0759][WISGNYAZILIM85][Info] Request finished in 63.4229ms 404  
+[2018-05-21 23:27:59.1256][WISGNYAZILIM85][Info] Request finished in 91.9427ms 404  
+[2018-05-21 23:27:59.1957][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:27:59.1957][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:27:59.2056][WISGNYAZILIM85][Info] Request finished in 29.7741ms 404  
+[2018-05-21 23:27:59.2056][WISGNYAZILIM85][Info] Request finished in 37.0716ms 404  
+[2018-05-21 23:28:01.4858][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:28:01.4858][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:28:01.5067][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:28:01.5161][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 20.8323ms 
+[2018-05-21 23:28:01.5161][WISGNYAZILIM85][Info] Request finished in 37.941ms 200 text/html; charset=utf-8 
+[2018-05-21 23:28:01.5406][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/css/bootstrap.css   
+[2018-05-21 23:28:01.5448][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/css/site.css   
+[2018-05-21 23:28:01.5897][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:28:01.5675][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:28:01.6121][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:28:01.6121][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:28:01.6219][WISGNYAZILIM85][Info] Request finished in 77.9759ms 404  
+[2018-05-21 23:28:01.6219][WISGNYAZILIM85][Info] Request finished in 85.1866ms 404  
+[2018-05-21 23:28:01.6372][WISGNYAZILIM85][Info] Request finished in 92.5808ms 404  
+[2018-05-21 23:28:01.6372][WISGNYAZILIM85][Info] Request finished in 72.7474ms 404  
+[2018-05-21 23:28:01.6537][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/jquery/dist/jquery.js   
+[2018-05-21 23:28:01.6841][WISGNYAZILIM85][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\css\site.css' 
+[2018-05-21 23:28:01.6841][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2018-05-21 23:28:01.7052][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/js/bootstrap.js   
+[2018-05-21 23:28:01.7052][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/js/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA   
+[2018-05-21 23:28:01.7221][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\jquery\dist\jquery.js' 
+[2018-05-21 23:28:01.7368][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js' 
+[2018-05-21 23:28:01.7368][WISGNYAZILIM85][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\js\site.js' 
+[2018-05-21 23:28:01.7852][WISGNYAZILIM85][Info] Request finished in 221.1269ms 200 text/css 
+[2018-05-21 23:28:01.7852][WISGNYAZILIM85][Info] Request finished in 83.1249ms 200 application/javascript 
+[2018-05-21 23:28:01.8152][WISGNYAZILIM85][Info] Request finished in 54.5918ms 200 application/javascript 
+[2018-05-21 23:28:01.8446][WISGNYAZILIM85][Info] Request finished in 280.1176ms 200 text/css 
+[2018-05-21 23:28:01.8732][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:28:01.8732][WISGNYAZILIM85][Info] Request finished in 229.6561ms 200 application/javascript 
+[2018-05-21 23:28:01.8919][WISGNYAZILIM85][Info] Request finished in 47.9589ms 404  
+[2018-05-21 23:28:01.9237][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:28:01.9237][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:28:01.9543][WISGNYAZILIM85][Info] Request finished in 53.296ms 404  
+[2018-05-21 23:28:01.9543][WISGNYAZILIM85][Info] Request finished in 59.2977ms 404  
+[2018-05-21 23:28:02.0162][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2   
+[2018-05-21 23:28:02.0162][WISGNYAZILIM85][Info] Sending file. Request path: '/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2' 
+[2018-05-21 23:28:02.0331][WISGNYAZILIM85][Info] Request finished in 17.0805ms 200 font/woff2 
+[2018-05-21 23:28:02.0627][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/favicon.ico   
+[2018-05-21 23:28:02.0627][WISGNYAZILIM85][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject\wwwroot\favicon.ico' 
+[2018-05-21 23:28:02.0794][WISGNYAZILIM85][Info] Request finished in 16.3257ms 200 image/x-icon 
+[2018-05-21 23:28:13.8855][WISGNYAZILIM85][Info] Request starting HTTP/1.1 POST http://localhost:54645/Configuration/AddNewValue application/json; charset=UTF-8 82 
+[2018-05-21 23:28:16.4565][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) with arguments (ConfigurationProject.Data.Model.Configuration) - ModelState is Valid 
+[2018-05-21 23:28:29.1649][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.AddNewValue (ConfigurationProject) in 15170.5854ms 
+[2018-05-21 23:28:29.1950][WISGNYAZILIM85][Info] Request finished in 15309.4719ms 200  
+[2018-05-21 23:28:41.1135][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:28:41.1212][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:28:41.1212][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:28:41.1405][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 19.0032ms 
+[2018-05-21 23:28:41.1405][WISGNYAZILIM85][Info] Request finished in 34.2038ms 200 text/html; charset=utf-8 
+[2018-05-21 23:28:41.1893][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:28:41.1893][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:28:41.2219][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:28:41.2446][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:28:41.2611][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:28:41.2471][WISGNYAZILIM85][Info] Request finished in 78.1166ms 404  
+[2018-05-21 23:28:41.2471][WISGNYAZILIM85][Info] Request finished in 82.0429ms 404  
+[2018-05-21 23:28:41.2471][WISGNYAZILIM85][Info] Request finished in 64.4843ms 404  
+[2018-05-21 23:28:41.2611][WISGNYAZILIM85][Info] Request finished in 69.0966ms 404  
+[2018-05-21 23:28:41.2611][WISGNYAZILIM85][Info] Request finished in 9.5089ms 404  
+[2018-05-21 23:28:41.3034][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:28:41.3034][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:28:41.3487][WISGNYAZILIM85][Info] Request finished in 69.292ms 404  
+[2018-05-21 23:28:41.3557][WISGNYAZILIM85][Info] Request finished in 75.2941ms 404  
+[2018-05-21 23:28:57.6623][WISGNYAZILIM85][Info] Request starting HTTP/1.1 DELETE http://localhost:54645/Configuration/DeleteValue?id=5b032bed6c3efb797ccd363a   
+[2018-05-21 23:29:00.3152][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) with arguments (5b032bed6c3efb797ccd363a) - ModelState is Valid 
+[2018-05-21 23:29:01.1244][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.ConfigurationController.DeleteValue (ConfigurationProject) in 3453.5962ms 
+[2018-05-21 23:29:01.1244][WISGNYAZILIM85][Info] Request finished in 3468.8515ms 200  
+[2018-05-21 23:29:01.1448][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/   
+[2018-05-21 23:29:01.1520][WISGNYAZILIM85][Info] Executing action method ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) with arguments ((null)) - ModelState is Valid 
+[2018-05-21 23:29:01.1520][WISGNYAZILIM85][Info] Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+[2018-05-21 23:29:01.1686][WISGNYAZILIM85][Info] Executed action ConfigurationProject.Controllers.HomeController.Index (ConfigurationProject) in 16.3851ms 
+[2018-05-21 23:29:01.1686][WISGNYAZILIM85][Info] Request finished in 30.4828ms 200 text/html; charset=utf-8 
+[2018-05-21 23:29:01.2104][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/jquery-1.9.1.js   
+[2018-05-21 23:29:01.2335][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:29:01.2585][WISGNYAZILIM85][Info] Request finished in 71.1544ms 404  
+[2018-05-21 23:29:01.2335][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/bootstrap.js   
+[2018-05-21 23:29:01.2585][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Content/bootstrap.css   
+[2018-05-21 23:29:01.2683][WISGNYAZILIM85][Info] Request finished in 54.4117ms 404  
+[2018-05-21 23:29:01.2793][WISGNYAZILIM85][Info] Request finished in 87.8005ms 404  
+[2018-05-21 23:29:01.2793][WISGNYAZILIM85][Info] Request finished in 92.9563ms 404  
+[2018-05-21 23:29:01.2793][WISGNYAZILIM85][Info] Request starting HTTP/1.1 GET http://localhost:54645/Scripts/employee.js   
+[2018-05-21 23:29:01.3111][WISGNYAZILIM85][Info] Request finished in 22.513ms 404  

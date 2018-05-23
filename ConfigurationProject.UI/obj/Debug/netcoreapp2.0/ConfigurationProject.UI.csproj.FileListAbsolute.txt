@@ -1,0 +1,15 @@
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.UI.deps.json
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.UI.runtimeconfig.json
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.UI.runtimeconfig.dev.json
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.UI.dll
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.UI.pdb
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.dll
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\bin\Debug\netcoreapp2.0\ConfigurationProject.Data.pdb
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.csprojResolveAssemblyReference.cache
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.csproj.CoreCompileInputs.cache
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.AssemblyInfoInputs.cache
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.AssemblyInfo.cs
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.dll
+C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject.UI\obj\Debug\netcoreapp2.0\ConfigurationProject.UI.pdb
