@@ -1,7 +1,7 @@
 services:
   configurationproject:
     build:
-      context: c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject\ConfigurationProject
+      context: C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject\ConfigurationProject
       dockerfile: Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development
@@ -15,5 +15,5 @@ services:
     ports:
     - 27017:27017/tcp
     volumes:
-    - c:\users\otimucin\documents\visual studio 2017\Projects\ConfigurationProject:/setup:rw
+    - C:\Users\otimucin\Documents\Visual Studio 2017\Projects\ConfigurationProject:/setup:rw
 version: '3.0'
